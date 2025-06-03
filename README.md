@@ -1,4 +1,4 @@
-🎯 **Objetivo:**
+🎯 #Objetivo:#
 Nesta atividade, vocês terão a oportunidade de criar o site de um restaurante fictício, aplicando os conhecimentos adquiridos em HTML5, CSS3 (com ênfase em tags semânticas e Flexbox). Será fornecida uma estrutura das páginas, mas a identidade visual, os conteúdos e a personalização ficarão por conta de vocês.
 
 📐 Estrutura Básica Fornecida (Página Inicial):
